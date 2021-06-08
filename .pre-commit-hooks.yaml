@@ -1,0 +1,7 @@
+ id: R-capsule
+    name: R-capsule
+    description: Recreate .renv lock file based on capsule::recreate()
+    entry: 
+    language: script
+    require_serial: true
+    args: ['']
